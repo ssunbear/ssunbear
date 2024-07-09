@@ -6,12 +6,12 @@
 - 알고리즘과 개발기록을 꾸준히 남기려 합니다 ✍🏻
 
 ### 📃 MORE INFORMATION
-<a href="https://www.notion.so/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592">
+<a href="https://www.notion.so/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> </a>
 <a href="https://define-me.tistory.com/"/>
-   <img src="https://img.shields.io/badge/Tistory-FD5F07.svg?&style=for-the-badge&logo=Tistory&logoColor=white"> </a>
+   <img src="https://img.shields.io/badge/Tistory-FD5F07.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a>
 <a href="https://blog.naver.com/define_me">
-   <img src="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"> </a>
+   <img src="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/> </a>
 
 
 ### 📚 TECH STACKS
