@@ -13,16 +13,6 @@
 <a href="https://blog.naver.com/define_me">
    <img src="https://img.shields.io/badge/BLOG-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"> </a>
 
-<a href="https://www.notion.so/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592/">
-    <img 
-        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://define-me.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/- Tistory-FD5F07style=flat&logo=Tistory&link=https://define-me.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 ### 📚 TECH STACKS
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">  
