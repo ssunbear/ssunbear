@@ -2,11 +2,11 @@
 
 ### ⁉️ ABOUT ME
 - 세종대학교 컴퓨터공학과 재학 🎓
-- AI 엔지니어가 되기위해 노력 중입니다 💡
+- AI 엔지니어가 되기 위해 노력 중입니다 💡
 - 알고리즘과 개발기록을 꾸준히 남기려 합니다 ✍🏻
 
 ### 📃 MORE INFORMATION
-####   👇   클릭하시면 연결된 링크로 연결됩니다 👇
+####   👇 클릭하시면 해당하는 링크로 연결됩니다 👇
 <a href="https://faithful-element-b73.notion.site/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> </a>
 <a href="https://define-me.tistory.com/"/>
@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
 
 ### 📜 SOLVED.AC
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neuron4722)](https://solved.ac/neuron4722/)
 
 ### 🍀 LET'S MAKE IT GREEN
