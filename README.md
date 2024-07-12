@@ -6,7 +6,7 @@
 - 알고리즘과 개발기록을 꾸준히 남기려 합니다 ✍🏻
 
 ### 📃 MORE INFORMATION
-####   👇 클릭하시면 해당하는 링크로 연결됩니다 👇
+####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
 <a href="https://faithful-element-b73.notion.site/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> </a>
 <a href="https://define-me.tistory.com/"/>
