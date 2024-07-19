@@ -7,7 +7,7 @@
 
 ### 📃 MORE INFORMATION
 ####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
-<a href="https://faithful-element-b73.notion.site/ssun_bear-ea1f7e630a0346bdbf19a5407c9e1592"/>
+<a href="https://ssunbear.notion.site/ea1f7e630a0346bdbf19a5407c9e1592"/>
   <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> </a>
 <a href="https://define-me.tistory.com/"/>
    <img src="https://img.shields.io/badge/Tistory-FD5F07.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/> </a>
