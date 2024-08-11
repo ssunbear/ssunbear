@@ -23,5 +23,20 @@
 ### 📜 SOLVED.AC
 [![neuron4722's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=neuron4722)](https://solved.ac/profile/neuron4722)
 
-### 🍀 LET'S MAKE IT GREEN
-<p align="center"> <img width="1000" src="github-snake.svg" alt="snake"/> </p>
+### 🐤 MY FARM
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ssunbear?pet-id=585637593960769445"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ssunbear"
+  width="600"
+  height="300"
+/>
+</a>
