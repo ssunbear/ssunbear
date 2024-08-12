@@ -1,4 +1,4 @@
-## 🔥 Be great on my own, @ssunbear 🐻
+### 🔥 Be great on my own, @ssunbear 🐻
 
 ### ⁉️ ABOUT ME
 - 세종대학교 컴퓨터공학과 재학 🎓
