@@ -26,7 +26,7 @@
 ### 🐤 MY FARM
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/ssunbear?pet-id=585637593960769445"
+    src="https://render.gitanimals.org/lines/ssunbear?pet-id="
     width="600"
     height="120"
   />
