@@ -1,16 +1,16 @@
 ## 🔥 Be great on my own, @ssunbear 🐻
 
 ### ⁉️ ABOUT ME
-- **세종대학교 컴퓨터공학과** 재학 `2019.03 - 2025.02` 🎓
-- **네이버 부스트캠프 AI Tech 7기** `2024.08 - 2025.02`🎓
-- AI 엔지니어가 되기 위해 노력 중입니다 💡 
+- **세종대학교 컴퓨터공학과** 재학 `2019.03 ~ 2025.02` 🎓
+- **네이버 부스트캠프 AI Tech 7기** `2024.08 ~ 2025.02`🎓
+- AI 엔지니어가 되기 위해 노력중입니다 💡 
 - 알고리즘과 개발기록을 꾸준히 남깁니다 ✍🏻
 
 
 ### 💎 CERTIFICATES
 - [**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) `2024`
 - [**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) `2024`
-- [**OPIC INTERMEDIATE HIGH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5) `2024.08`
+- [**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5) `2024.08`
 
 ### ✍🏻 STUDY
 - [**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study) `2024.07~`
