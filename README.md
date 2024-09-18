@@ -10,7 +10,7 @@
 ### 💎 CERTIFICATES
 - [**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) `2024`
 - [**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) `2024`
-- [**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5) `2024.08`
+- [**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5) `2024.09`
 
 ### ✍🏻 STUDY
 - [**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study) `2024.07~`
