@@ -8,14 +8,19 @@
 
 
 ### 💎 CERTIFICATES
-- [**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) `2024`
-- [**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) `2024`
-- [**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5) `2024.09`
+| **자격증** | **발급년도** | **발급기관**  |
+| -------- | ------------| ----------- |
+|[**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) |`2024`|한국산업인력공단|
+|[**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) |`2024`|한국데이터산업진흥원장|
+|[**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5)|`2024.09`|ACTFL |
 
 ### ✍🏻 STUDY
-- [**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study) `2024.07~`
-- [**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS) `2024.08~`
-- [**15조가십오조 CS 스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study) `2024.08~`
+|**스터디명**|**스터디내용**|**스터디기간**|
+| -------- | ------------| ----------- |
+|[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|`Algorithm`|`2024.07~`|
+|[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|`Algorithm`|`2024.08~`|
+|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|`Computer Science`|`2024.08~`|
+|[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|`Natural Language Processing`|`2024.09~`|
 
 ### 📃 MORE INFORMATION
 ####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
