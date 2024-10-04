@@ -20,7 +20,7 @@
 |[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|`Algorithm`|`2024.07~`|
 |[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|`Algorithm`|`2024.08~`|
 |[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|`Computer Science`|`2024.08~`|
-|[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|`Natural Language Processing`|`2024.09~`|
+|[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|`Natural Language Processing`|`2024.08~`|
 
 ### 📃 MORE INFORMATION
 ####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
