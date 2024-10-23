@@ -18,8 +18,8 @@
 |**스터디명**|**스터디내용**|**스터디기간**|
 | -------- | ------------| ----------- |
 |[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|`Algorithm`|`2024.07~`|
-|[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|`Algorithm`|`2024.08~`|
-|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|`Computer Science`|`2024.08~`|
+|[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|`Algorithm`|`2024.08`~`2024.10`|
+|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|`Computer Science`|`2024.08`~`2024.10`|
 |[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|`Natural Language Processing`|`2024.08~`|
 
 ### 📃 MORE INFORMATION
