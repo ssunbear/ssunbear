@@ -7,8 +7,8 @@
 - 알고리즘과 개발기록을 꾸준히 남깁니다 ✍🏻
 
 ### 💎 AWARDS
-- 부스트캠프 AI Tech 7기(NLP) - [**문맥적 유사도 측정 (STS)**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) - Public 🥈 [**`2등`**], Private 🥉 [**`3등`**] 
-- 부스트캠프 AI Tech 7기(NLP) - Open-Domain Question Answering (MRC) - Public 🥈 [**`2등`**], Private 🥈 [**`2등`**] 
+- 부스트캠프 AI Tech 7기(NLP) - [**문맥적 유사도 측정 (STS)**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) : Public 🥈 [**`2등`**], Private 🥉 [**`3등`**] 
+- 부스트캠프 AI Tech 7기(NLP) - Open-Domain Question Answering (MRC) : Public 🥈 [**`2등`**], Private 🥈 [**`2등`**] 
 
 ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |
