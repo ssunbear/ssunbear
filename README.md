@@ -6,24 +6,26 @@
 - AI 엔지니어가 되기 위해 노력중입니다 💡 
 - 알고리즘과 개발기록을 꾸준히 남깁니다 ✍🏻
 
-### 💎 AWARDS
-- 부스트캠프 AI Tech 7기(NLP) - [**문맥적 유사도 측정 (STS)**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) : Public 🥈 [**`2등`**], Private 🥉 [**`3등`**] 
-- 부스트캠프 AI Tech 7기(NLP) - [**Open-Domain Question Answering (MRC)**](https://github.com/boostcampaitech7/level2-mrc-nlp-15) : Public 🥈 [**`2등`**], Private 🥈 [**`2등`**] 
+### 🏆 AWARDS
+| **날짜** | **대회명** | **수상**  |**주최**  |
+| -------- | ------------| ----------- |----------- |
+|`2024.11`|[**주제 분류 프로젝트 (Data-Centic)**]() |🥇 1위 (PUBLIC), 🥇 1위 (PRIVATE)| NAVER Boostcamp 7 / Upstage|
+|`2024.10`|[**Open-Domain Question Answering (MRC)**](https://github.com/boostcampaitech7/level2-mrc-nlp-15) | 🥈 2위 (PUBLIC), 🥈 2위 (PRIVATE)| NAVER Boostcamp 7 / Upstage|
+|`2024.09`|[**문맥적 유사도 측정 (STS)**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) | 🥈 2위 (PUBLIC), 🥉 3위 (PRIVATE)| NAVER Boostcamp 7 / Upstage|
+
 
 ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |
 | -------- | ------------| ----------- |
 |[**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) |`2024`|한국산업인력공단|
 |[**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) |`2024`|한국데이터산업진흥원장|
-|[**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5)|`2024.09`|ACTFL |
+|[**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5)|`2024`|ACTFL |
+|[**TOEIC 895**]()|`2022`|ETS |
 
 ### ✍🏻 STUDY
-|**스터디명**|**스터디내용**|**스터디기간**|
-| -------- | ------------| ----------- |
-|[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|`Algorithm`|`2024.07~`|
-|[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|`Algorithm`|`2024.08`~`2024.10`|
-|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|`Computer Science`|`2024.08`~`2024.10`|
-|[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|`Natural Language Processing`|`2024.08~`|
+| Algorithm | Algorithm |  Computer Science | Paper Review  |
+| -------- | ------------| ----------- |----------- |
+|[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|
 
 ### 📃 MORE INFORMATION
 ####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
