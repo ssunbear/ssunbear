@@ -9,6 +9,7 @@
 ### 🏆 AWARDS
 | **날짜** | **대회명** | **수상**  |**주최**  |
 | -------- | ------------| ----------- |----------- |
+|`2024.11`|[**수능형 문제 풀이 모델 생성**](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-05-lv3) |🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
 |`2024.11`|[**주제 분류 프로젝트 (Data-Centic)**](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-15) |🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
 |`2024.10`|[**Open-Domain Question Answering (MRC)**](https://github.com/boostcampaitech7/level2-mrc-nlp-15) | 🥈 **2위** (Public) / 🥈 **2위** (Private)| 네이버 커넥트재단 |
 |`2024.09`|[**문맥적 유사도 측정 (STS)**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) | 🥈 **2위** (Public) / 🥉 **3위** (Private)| 네이버 커넥트재단 |
