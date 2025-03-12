@@ -4,7 +4,7 @@
 
 - [**CV**](https://drive.google.com/file/d/1pEi-XRjxAFSXPVOktOXxzJUxxbK20gdL/view?usp=sharing) | [**Portfolio**](https://drive.google.com/file/d/1SFgHdSPmz5h9M8C2tSIxCd1LmiLVnrkv/view?usp=sharing) 
 - **세종대학교 컴퓨터공학과** 수료 `2019.03 ~ 2025.08` 🎓
-- **네이버 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓 
+- **네이버 커넥트재단, 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓 
 
 
 
