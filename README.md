@@ -1,10 +1,13 @@
 ## 🔥 Be great on my own, @ssunbear 🐻
 
-### ⁉️ ABOUT ME
+### ⁉️ ABOUT ME 
+
+- [**CV**](https://drive.google.com/file/d/1pEi-XRjxAFSXPVOktOXxzJUxxbK20gdL/view?usp=sharing) | [**Portfolio**](https://drive.google.com/file/d/1SFgHdSPmz5h9M8C2tSIxCd1LmiLVnrkv/view?usp=sharing) 
 - **세종대학교 컴퓨터공학과** 수료 `2019.03 ~ 2025.08` 🎓
-- **네이버 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓
-- AI 엔지니어가 되기 위해 노력중입니다 💡 
-- 알고리즘과 개발기록을 꾸준히 남깁니다 ✍🏻
+- **네이버 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓 
+
+
+
 
 ### 🏆 AWARDS
 | **날짜** | **대회명** | **수상**  |**주최**  |
