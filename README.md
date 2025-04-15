@@ -2,7 +2,7 @@
 
 ### ⁉️ ABOUT ME 
 
-- [**CV**](https://drive.google.com/file/d/1pEi-XRjxAFSXPVOktOXxzJUxxbK20gdL/view?usp=sharing) | [**Portfolio**](https://drive.google.com/drive/folders/1C5s1QXn8i_9xvUsxXknKdX56GFWijJWk) 
+- [**CV**](https://drive.google.com/file/d/1pEi-XRjxAFSXPVOktOXxzJUxxbK20gdL/view?usp=sharing) | [**Portfolio**](https://drive.google.com/file/d/1paWZnv9RsLvhn-WOuyVWPYNVlQiIfyga/view?usp=sharing) 
 - **세종대학교 컴퓨터공학과** 수료 `2019.03 ~ 2025.08` 🎓
 - **네이버 커넥트재단, 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓 
 
