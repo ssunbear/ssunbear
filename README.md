@@ -2,21 +2,22 @@
 
 ### ⁉️ ABOUT ME 
 
-- [**CV**](https://drive.google.com/file/d/1pEi-XRjxAFSXPVOktOXxzJUxxbK20gdL/view?usp=sharing) | [**Portfolio**](https://drive.google.com/file/d/1paWZnv9RsLvhn-WOuyVWPYNVlQiIfyga/view?usp=sharing) 
-- **세종대학교 컴퓨터공학과** 수료 `2019.03 ~ 2025.08` 🎓
+- [**CV**](https://drive.google.com/file/d/1paWZnv9RsLvhn-WOuyVWPYNVlQiIfyga/view?usp=sharing) | [**Portfolio**](https://drive.google.com/file/d/1paWZnv9RsLvhn-WOuyVWPYNVlQiIfyga/view?usp=sharing) | [**LinkedIn**](https://www.linkedin.com/in/ssunbear/) 
+- **세종대학교 컴퓨터공학과** 졸업예정 `2019.03 ~ 2025.08` 🎓
 - **네이버 커넥트재단, 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓 
+- **2025 오픈소스 컨트리뷰션 아카데미** 진행중 `2025.04 ~ Ongoing`🔥
 
 
-
-
-### 🏆 AWARDS
-| **날짜** | **대회명** | **수상**  |**주최**  |
-| -------- | ------------| ----------- |----------- |
-|`2024.11`|[**수능형 문제 풀이 모델 생성**](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-05-lv3) |🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
-|`2024.11`|[**주제 분류 프로젝트 (Data-Centic)**](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-15) |🥇 **1위** (Public) / 🥇 **1위** (Private)| 네이버 커넥트재단 |
-|`2024.10`|[**Open-Domain Question Answering (MRC)**](https://github.com/boostcampaitech7/level2-mrc-nlp-15) | 🥈 **2위** (Public) / 🥈 **2위** (Private)| 네이버 커넥트재단 |
-|`2024.09`|[**문맥적 유사도 측정 (STS)**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) | 🥈 **2위** (Public) / 🥉 **3위** (Private)| 네이버 커넥트재단 |
-
+### 🖥️ PROJECTS
+| **기간** | **프로젝트명** | **주관**  |
+| -------- | ------------| ----------- |
+|`2025.04 - Ongoing`|[**PR Agent**](https://github.com/ossca-2025) | 과학기술정보통신부, 정보통신산업진흥원 |
+|`2025.01 - 2025.02`|[**Foodly: 시각장애인을 위한 식료품 쇼핑 AI 서비스**](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-05-lv3) | 네이버 클라우드 기업연계해커톤 |
+|`2024.11`|[**수능형 문제풀이 모델**](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-05-lv3) | 네이버 커넥트재단 |
+|`2024.11`|[**뉴스기사 주제 분류**](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-15) | 네이버 커넥트재단 |
+|`2024.10`|[**RAG with Open-Domain Question Answering**](https://github.com/boostcampaitech7/level2-mrc-nlp-15) | 네이버 커넥트재단 |
+|`2024.09`|[**문장간 유사도 측정**](https://github.com/boostcampaitech7/level1-semantictextsimilarity-nlp-15) | 네이버 커넥트재단 |
+|`2024.03 - 2024.06`|[**AI 몇대몇: 교통사고 과실비율 판단 AI 서비스**](https://github.com/ssunbear/AI_Fault_Ratio) | 세종대학교 컴퓨터공학과 |
 
 ### 💎 CERTIFICATES
 | **자격증** | **발급년도** | **발급기관**  |
@@ -27,9 +28,9 @@
 |[**TOEIC 895**]()|`2022`|ETS |
 
 ### ✍🏻 STUDY
-| Algorithm | Algorithm |  Computer Science | Paper Review  |
-| -------- | ------------| ----------- |----------- |
-|[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|[**15조가십오조 데일리 알고리즘**](https://github.com/AI-Tech-7th-NLP-15/Daily-PS)|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|[**NLP 논문스터디**](https://github.com/ssunbear/Paper_Review)|
+| Algorithm | Computer Science | Paper Review  | ML Study | 
+| -------- |  ----------- |----------- |----------- |
+|[**SJCE 알고리즘 스터디**](https://github.com/j2noo/SJCE_Algorithm_Study)|[**15조가십오조 CS스터디**](https://github.com/AI-Tech-7th-NLP-15/CS-Study)|[**NLP 논문스터디**](https://www.notion.so/ssunbear/NLP-Paper-Review-1042c77b05c28063b96ecb3a6902b906)|[**ML 기술면접 스터디**](https://www.notion.so/ssunbear/ML-AI-1d42c77b05c2802d9343f9ee46a38e13)|
 
 ### 📃 MORE INFORMATION
 ####   👇 클릭하시면 해당하는 링크로 연결됩니다! 👇
