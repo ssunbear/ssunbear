@@ -20,12 +20,12 @@
 |`2024.03 - 2024.06`|[**AI 몇대몇: 교통사고 과실비율 판단 AI 서비스**](https://github.com/ssunbear/AI_Fault_Ratio) | 세종대학교 컴퓨터공학과 |
 
 ### 💎 CERTIFICATES
-| **자격증** | **발급년도** | **발급기관**  |
+| **발급날짜** | **자격증** |  **발급기관**  |
 | -------- | ------------| ----------- |
-|[**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) |`2024`|한국산업인력공단|
-|[**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) |`2024`|한국데이터산업진흥원장|
-|[**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5)|`2024`|ACTFL |
-|[**TOEIC 895**]()|`2022`|ETS |
+|`2024.09.20`|[**SQLD**](https://www.notion.so/ssunbear/SQLD-25d1dafef4bd4dd5bcbd95955a6b3c81) | 한국데이터산업진흥원장|
+|`2024.09.10`|[**정보처리기사**](https://www.notion.so/ssunbear/3c195ae5b2c24987a7da0aea9ff6b953) | 한국산업인력공단 |
+|`2024.08.24`|[**OPIC IH**](https://www.notion.so/ssunbear/OPIC-0119671a1a7c4265a695bc0b122edee5)| ACTFL |
+|`2022`|[**TOEIC 895**]()|ETS |
 
 ### ✍🏻 STUDY
 | Algorithm | Computer Science | Paper Review  | ML Study | 
