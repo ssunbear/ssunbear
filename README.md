@@ -1,8 +1,8 @@
-## 🔥 Be great on my own, @ssunbear 🐻
+## 🔥 JUST DO IT, @ssunbear 🐻
 
 ### ⁉️ ABOUT ME 
 
-- [**CV**](https://drive.google.com/file/d/1sJyqOF5oEzfsmB_ZU72xpHldrT2POwRA/view?usp=sharing) | [**Portfolio**](https://drive.google.com/file/d/1paWZnv9RsLvhn-WOuyVWPYNVlQiIfyga/view?usp=sharing) | [**LinkedIn**](https://www.linkedin.com/in/ssunbear/) 
+- [**CV**](https://drive.google.com/drive/folders/1C5s1QXn8i_9xvUsxXknKdX56GFWijJWk) | [**Portfolio**](https://drive.google.com/file/d/1paWZnv9RsLvhn-WOuyVWPYNVlQiIfyga/view?usp=sharing) | [**LinkedIn**](https://www.linkedin.com/in/ssunbear/) 
 - **세종대학교 컴퓨터공학과** 졸업예정 `2019.03 ~ 2025.08` 🎓
 - **네이버 커넥트재단, 부스트캠프 AI Tech 7기** 수료 `2024.08 ~ 2025.02`🎓 
 - **2025 오픈소스 컨트리뷰션 아카데미** 진행중 `2025.04 ~ Ongoing`🔥
