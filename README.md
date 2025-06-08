@@ -11,7 +11,7 @@
 ### 🖥️ PROJECTS
 | **기간** | **프로젝트명** | **주관**  |
 | -------- | ------------| ----------- |
-|`2025.04 - Ongoing`|[**PR Agent**](https://github.com/ossca-2025) | 과학기술정보통신부, 정보통신산업진흥원 |
+|`2025.04 - 2025.05`|[**PR Agent**](https://github.com/orgs/OSSCA-2025-Egg-Benedict/repositories) | 과학기술정보통신부, 정보통신산업진흥원 |
 |`2025.01 - 2025.02`|[**Foodly: 시각장애인을 위한 식료품 쇼핑 AI 서비스**](https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-05-lv3) | 네이버 클라우드 기업연계해커톤 |
 |`2024.11`|[**수능형 문제풀이 모델**](https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-05-lv3) | 네이버 커넥트재단 |
 |`2024.11`|[**뉴스기사 주제 분류**](https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-15) | 네이버 커넥트재단 |
